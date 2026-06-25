@@ -6,6 +6,7 @@
 ## EXECUTIVE SUMMARY
 
 **Product Name**: BazarPro
+---
 **Target Market**: Small to Medium Enterprises (SMEs), Retailers, Online Sellers in Bangladesh  
 **Market Gap**: No comprehensive, affordable, all-in-one platform with offline-first capability, local payment integration, and CRM  
 **Unique Value Proposition**: 
